@@ -1,0 +1,76 @@
+<!--
+UR 1
+SR 2
+R 6
+C 8
+-->
+
+<set>
+    <card>
+        <cardName>Blue-Eyes Whit Dragon</cardName>
+        <lobRarity>UR</lobRarity>
+        <duelLinksRarity>UR</duelLinksRarity>
+    </card>
+    <card>
+        <cardName>Dark Magician</cardName>
+        <lobRarity>UR</lobRarity>
+        <duelLinksRarity>UR</duelLinksRarity>
+    </card>
+    <card>
+        <cardName>Gaia the Fierce Knight</cardName>
+        <lobRarity>UR</lobRarity>
+        <duelLinksRarity></duelLinksRarity>
+    </card>
+    <card>
+        <cardName>Red-Eyes Black Dragon</cardName>
+        <lobRarity>UR</lobRarity>
+        <duelLinksRarity></duelLinksRarity>
+    </card>
+    <card>
+        <cardName>Monster Reborn</cardName>
+        <lobRarity>UR</lobRarity>
+        <duelLinksRarity></duelLinksRarity>
+    </card>
+    <card>
+        <cardName>Right Leg of the Forbidden One</cardName>
+        <lobRarity></lobRarity>
+        <duelLinksRarity></duelLinksRarity>
+    </card>
+    <card>
+        <cardName>Left Leg of the Forbidden One</cardName>
+        <lobRarity></lobRarity>
+        <duelLinksRarity></duelLinksRarity>
+    </card>
+    <card>
+        <cardName>Right Arm of the Forbidden One</cardName>
+        <lobRarity></lobRarity>
+        <duelLinksRarity></duelLinksRarity>
+    </card>
+    <card>
+        <cardName>Left Arm of the Forbidden One</cardName>
+        <lobRarity></lobRarity>
+        <duelLinksRarity></duelLinksRarity>
+    </card>
+    <card>
+        <cardName>Exodia the Forbidden One</cardName>
+        <lobRarity></lobRarity>
+        <duelLinksRarity></duelLinksRarity>
+    </card>
+    <card>
+        <cardName>Raise Body Heat</cardName>
+        <lobRarity>Super Short Print</lobRarity>
+        <duelLinksRarity>R</duelLinksRarity>
+    </card>
+    <card>
+        <cardName>Follow Wind</cardName>
+        <lobRarity>Super Short Print</lobRarity>
+        <duelLinksRarity>R</duelLinksRarity>
+    </card>
+    <card>
+        <cardName>Flame Swordsman</cardName>
+        <lobRarity>Super Short Print</lobRarity>
+        <duelLinksRarity>R</duelLinksRarity>
+    </card>
+</set>
+
+

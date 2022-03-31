@@ -1,0 +1,50 @@
+<set>
+    <card>
+        <cardNumber>LOB-001</cardNumber>
+        <cardName>Blue-Eyes White Dragon</cardName>
+        <lobRarity>UR</lobRarity>
+        <duelLinksRarity>UR</duelLinksRarity>
+    </card>
+
+    <card>
+        <cardNumber>LOB-002</cardNumber>
+        <cardName>Hitotsu-Me Giant</cardName>
+        <lobRarity>C</lobRarity>
+        <duelLinksRarity>N</duelLinksRarity>
+    </card>
+
+    <card>
+        <cardNumber>LOB-004</cardNumber>
+        <cardName>Skull Servant</cardName>
+        <lobRarity>C</lobRarity>
+        <duelLinksRarity>N</duelLinksRarity>
+    </card>
+
+    <card>
+        <cardNumber>LOB-008</cardNumber>
+        <cardName>Basic Insect</cardName>
+        <lobRarity>C</lobRarity>
+        <duelLinksRarity>N</duelLinksRarity>
+    </card>
+
+    <card>
+        <cardNumber>LOB-011</cardNumber>
+        <cardName>Dark Gray</cardName>
+        <lobRarity>C</lobRarity>
+        <duelLinksRarity>N</duelLinksRarity>
+    </card>
+
+    <card>
+        <cardNumber>LOB-013</cardNumber>
+        <cardName>Nemuriko</cardName>
+        <lobRarity>C</lobRarity>
+        <duelLinksRarity>N</duelLinksRarity>
+    </card>
+
+    <card>
+        <cardNumber>LOB-010</cardNumber>
+        <cardName>Silver Fang</cardName>
+        <lobRarity>C</lobRarity>
+        <duelLinksRarity>N</duelLinksRarity>
+    </card>
+</set>
